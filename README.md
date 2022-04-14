@@ -1,4 +1,4 @@
-# dinosaur
+# Dinosaur
 Projeto clone do jogo do dinossauro da Google, feito para o bootcamp DIO Órbi Web Games Developer.
 
 Acrescentado placar e possibilidade de reiniciar partida.
